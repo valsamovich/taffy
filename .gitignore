@@ -1,6 +1,6 @@
 # JetBrains
 *.iml
-.idea/*
+.idea/
 
 # Apple macOS
 *.DS_Store
@@ -27,5 +27,3 @@ passwords.ini
 variables.ini
 dataservices.ini
 dataservices_pw.ini
-
-
